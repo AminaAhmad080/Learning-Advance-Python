@@ -1,0 +1,7 @@
+print("Name:Amina Ahmad")
+print("Father Name: Muhammad Ahmad")
+print("Professional as well as Student")
+print("College Teacher Internee at Govt. College Township, Lahore")
+print("Student at PIAIC")
+print("Age: 24 years old")
+print("City: Okara")
